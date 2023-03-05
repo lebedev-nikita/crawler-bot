@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "30001-tg-bot",
+      "script": "npm start",
+      "env": {
+        "PORT": 30001
+      }
+    }
+  ]
+}
